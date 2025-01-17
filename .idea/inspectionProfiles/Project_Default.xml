@@ -1,0 +1,11 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MemberVisibilityCanBePrivate" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="NestedLambdaShadowedImplicitParameter" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="RedundantNullableReturnType" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="RemoveExplicitTypeArguments" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="RemoveSingleExpressionStringTemplate" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="UnusedSymbol" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  </profile>
+</component>
